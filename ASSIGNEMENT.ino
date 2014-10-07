@@ -1,3 +1,4 @@
+// Keith.J.Kay Arduino self calibrating laser trip wire
 // first define the constants used for sensor / emitter pins
 const int triggeredLED = 7;  // pin for the warning light LED
 const int GreenLED = 4;      // pin for the 'un-armed' state indicator
